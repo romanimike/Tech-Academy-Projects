@@ -1,0 +1,1 @@
+this is the line of text i am wtiting in my terminal, and im going to commit and push this new file to the remote repo, using git bash terminal!
