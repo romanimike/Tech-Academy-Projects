@@ -1,0 +1,1 @@
+I am doing the second part of the challange, but i accidentally did it in reverse order, so first i used git bash to do it. Not i will use the github desktop to do it.
